@@ -17,5 +17,5 @@
 #### [Git and Github](https://github.com/georgenasseem/git-and-github)
 
 ## Contacts
-#### gmail: Georgenasseem@gmail.com
-#### [personal website](https://georgenasseem.github.io/personal-website/)
+#### Gmail: Georgenasseem@gmail.com
+#### Personal website: [here](https://georgenasseem.github.io/personal-website/)
