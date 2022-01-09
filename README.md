@@ -5,7 +5,7 @@
 ## Languages Learned 💻
 #### [HTML and CSS](https://github.com/georgenasseem/html-and-css)
 #### [JavaScript](https://github.com/georgenasseem/javascript)
-#### [C#](https://github.com/georgenasseem/c#)
+#### [C#](https://github.com/georgenasseem/csharp)
 #### [Python](https://github.com/georgenasseem/python)
 #### [C](https://github.com/georgenasseem/c)
 
