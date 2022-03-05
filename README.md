@@ -19,4 +19,3 @@
 
 ## Contacts
 #### Gmail: Georgenasseem@gmail.com
-#### Personal website: [here](https://georgenasseem.github.io/personal-website/)
